@@ -1,6 +1,6 @@
 # UpdateClient
 
-원격 파일 송수신 프로그램 (client ver.)
+MFC 기반 원격 파일 송수신 프로그램 (client ver.)
 - Client와 Server간 파일 송수신을 지원 
 - .zip, .dll 등 다양한 파일 형식의 송수신을 지원
 - 4MB 이상의 대용량 파일 송수신 지원
